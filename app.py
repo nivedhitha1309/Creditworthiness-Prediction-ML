@@ -137,9 +137,9 @@ if st.button("Predict"):
     st.markdown("---")
 
     if prediction == 0:
-        st.success("✅ Creditworthy")
+        st.success("Creditworthy")
     else:
-        st.error("❌ Credit Risk")
+        st.error("Credit Risk")
 
     st.metric(
         label="Confidence",
