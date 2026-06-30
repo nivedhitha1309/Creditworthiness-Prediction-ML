@@ -199,6 +199,15 @@ The project generates:
 - Model Comparison CSV
 - Saved Trained Model
 
+Deployment:
+
+PS D:\ML Internship\Task1> streamlit run app.py
+2026-06-30 20:07:43.616 Uvicorn server started on 0.0.0.0:8501
+
+  You can now view your Streamlit app in your browser.
+
+  Local URL: http://localhost:8501
+
 Author
 
 NIVEDHITHA S
